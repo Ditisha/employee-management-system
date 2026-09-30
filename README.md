@@ -74,7 +74,9 @@ Open **http://localhost:8080** in your browser.
 ```
 
 ## Screenshots
-_Add a screenshot of the running app here._
+![Web page](screenshots/WebPageEmpMgnt.png)
+![MySQL data](screenshots/EmployeeDatabase.png)
+
 
 ## Future improvements
 - Spring Security login
